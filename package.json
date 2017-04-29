@@ -1,0 +1,21 @@
+{
+  "name": "nasa2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank890417/nasa2017_geneflow.git"
+  },
+  "author": "viva la vida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank890417/nasa2017_geneflow/issues"
+  },
+  "homepage": "https://github.com/frank890417/nasa2017_geneflow#readme"
+}
